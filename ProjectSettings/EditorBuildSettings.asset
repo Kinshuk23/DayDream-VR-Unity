@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TMCH_Scene.unity
+    guid: 74277383cb1b9c343be6eadc373a9564
+  - enabled: 0
+    path: Assets/Scenes/UI_Scene_Main.unity
+    guid: bce722504d86e4941ac7098fe12922e9
+  - enabled: 1
+    path: Assets/Scenes/1800 ES.unity
+    guid: e804df4215de4a041b9b9aa25c9d4c4f
+  - enabled: 1
+    path: Assets/Scenes/DayDream_UI.unity
+    guid: f6160c66d3ac41249b50af969fdd3982
+  m_configObjects: {}
